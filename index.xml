@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Michel-Pierre Jansen</title>
+    <link>https://DeDataDoctor.github.io/portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Michel-Pierre Jansen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Dec 2020 12:00:00 -0500</lastBuildDate><atom:link href="https://DeDataDoctor.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Machine Learning Project</title>
+      <link>https://DeDataDoctor.github.io/portfolio/post/project2/</link>
+      <pubDate>Tue, 14 Apr 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://DeDataDoctor.github.io/portfolio/post/project2/</guid>
+      <description>lorem ipsum</description>
+    </item>
+    
+    <item>
+      <title>Data science Projects</title>
+      <link>https://DeDataDoctor.github.io/portfolio/post/project1/</link>
+      <pubDate>Thu, 09 Apr 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://DeDataDoctor.github.io/portfolio/post/project1/</guid>
+      <description>Lorem ipsum
+Link to github repository</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://DeDataDoctor.github.io/portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://DeDataDoctor.github.io/portfolio/contact/</guid>
+      <description>Let&amp;rsquo;s get coffee sometime    Follow me      Email: michel.jansen@live.nl   Website: https://michelpierrejansen.com/   Twitter: https://twitter.com/MichelPierreJa1   LinkedIn: https://www.linkedin.com/in/michel-jansen/   GitHub: https://github.com/DeDataDoctor    </description>
+    </item>
+    
+  </channel>
+</rss>

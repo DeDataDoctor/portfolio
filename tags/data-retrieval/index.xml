@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Retrieval on Michel-Pierre Jansen</title>
+    <link>https://DeDataDoctor.github.io/portfolio/tags/data-retrieval/</link>
+    <description>Recent content in Data Retrieval on Michel-Pierre Jansen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Apr 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://DeDataDoctor.github.io/portfolio/tags/data-retrieval/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data science Projects</title>
+      <link>https://DeDataDoctor.github.io/portfolio/post/project1/</link>
+      <pubDate>Thu, 09 Apr 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://DeDataDoctor.github.io/portfolio/post/project1/</guid>
+      <description>Lorem ipsum
+Link to github repository</description>
+    </item>
+    
+  </channel>
+</rss>
